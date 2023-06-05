@@ -20,13 +20,16 @@ https://localhost:8080/user?id={id}
 
 send from postman:
 {
-
-    "country" : "Uganda"
-    
+    "first_name" : "Pallab",
+    "last_name" : "Mustakim",
+    "country" : "Uganda",
+    "profile_picture" : "mypropic"
 }
 
 
 ### DELETE  :
 
 https://localhost:8080/user?id={id}
+
+
 
