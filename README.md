@@ -1,5 +1,13 @@
 # Backend Assignment 2
 
+### GET:
+
+https://localhost:8080/activities
+
+- Joins the tables,
+- Sums Based on total points accumulated by each user and rank them
+- Returns an array of Object 
+
 ### POST :
 
 https://localhost:8080/user
